@@ -1,0 +1,6 @@
+MOTELIST_oppila := OMote
+BOARD_SOURCEFILES += board.c  
+
+#MODULES += $(CONTIKI_NG_LIB_DIR)/fs/fat $(CONTIKI_NG_LIB_DIR)/fs/fat/option
+#MODULES += $(CONTIKI_NG_ARCH_PLATFORM_DIR)/$(TARGET)/fs/fat
+#MODULES += $(CONTIKI_NG_DRIVERS_DIR)/disk/mmc
